@@ -1,0 +1,14 @@
+C:\Users\Mateu\permission\permission\bin\Debug\net8.0\permission.exe
+C:\Users\Mateu\permission\permission\bin\Debug\net8.0\permission.deps.json
+C:\Users\Mateu\permission\permission\bin\Debug\net8.0\permission.runtimeconfig.json
+C:\Users\Mateu\permission\permission\bin\Debug\net8.0\permission.dll
+C:\Users\Mateu\permission\permission\bin\Debug\net8.0\permission.pdb
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.AssemblyInfoInputs.cache
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.AssemblyInfo.cs
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.dll
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\refint\permission.dll
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.pdb
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\permission.genruntimeconfig.cache
+C:\Users\Mateu\permission\permission\obj\Debug\net8.0\ref\permission.dll
